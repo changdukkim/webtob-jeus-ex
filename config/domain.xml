@@ -495,7 +495,7 @@
                   <registration-id>MyGroup</registration-id>
                   <network-address>
                      <port>9900</port>
-                     <ip-address>webtob-reverseproxy-example.test1.svc.cluster.local</ip-address>
+                     <ip-address>localhost</ip-address>
                   </network-address>
                   <use-nio>false</use-nio>
                   <thread-pool>
